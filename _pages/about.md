@@ -37,7 +37,7 @@ In June 2024, I worked with <a href='https://scholar.google.com/citations?user=D
 
 
 
-# 📖 Educations
+# 📖 Education Experience
 - *2022.09 - 2026.06 (now)*, BEng., Artificial Intelligence, Dalian University of Technology.
 
 
