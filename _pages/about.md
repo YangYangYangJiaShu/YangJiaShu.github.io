@@ -50,10 +50,10 @@ In June 2024, I worked with <a href='https://scholar.google.com/citations?user=D
 - **2023.11 - now**, Institute of Automation, Chinese Academy of Sciences (CAS), China.
 
 # 🎖 Honors and Awards
-- **2023**: China National Robot Competition, Advanced Vision Track - Industrial Measurement, National First Prize.
-- **2024**: China National Robot Competition, Advanced Vision Track - 3D Detection, National Third Prize.
-- **2024**: China National Robot Competition, Advanced Vision Track - Industrial Measurement, National Third Prize.
-- **2024**: China Collegiate Computing Contest, AIGC Innovation Competition, National Third Prize.
+- **2023**: China National Robot Competition, Advanced Vision Track - Industrial Measurement, National First Prize.（Primary Contributor）
+- **2024**: China National Robot Competition, Advanced Vision Track - 3D Detection, National Third Prize.（Primary Contributor）
+- **2024**: China National Robot Competition, Advanced Vision Track - Industrial Measurement, National Third Prize.（Primary Contributor）
+- **2024**: China Collegiate Computing Contest, AIGC Innovation Competition, National Third Prize.（Primary Contributor）
 - Won **dozens of awards** in various other competitions.
 
 <!-- 
