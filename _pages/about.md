@@ -30,7 +30,7 @@ In June 2024, I worked with <a href='https://scholar.google.com/citations?user=D
 
 # 🔥 News
 
-- *2024.10.10:* &nbsp;🎉🎉🎉 
+- *2024.10 :* &nbsp;🎉🎉I've just released <a href='https://www.dlut.edu.cn//'>Squirrel File Detectivey</a>, a multimodal model for deep interaction with PDFs. 🐿️Dive in and explore the future of document analysis and interaction! 
 
 
 # 📝 Publications 
@@ -42,7 +42,8 @@ In June 2024, I worked with <a href='https://scholar.google.com/citations?user=D
 
 
 # 💻 Projects
-📂Our multimodal PDF interaction tool "Squirrel" is now live! 🎉
+📂 Our multimodal PDF interaction tool "Squirrel" is now live! 
+
 
 # 💼Work Experience
 <img src="/assets/images/CASIA.jpg" alt="Institute of Automation Logo" width="50">
